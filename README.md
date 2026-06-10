@@ -11,7 +11,7 @@ I enjoy learning by building — from game development using **Raylib** to desig
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | [**Space Invaders**](https://github.com/kartar-singh-cs/space-invaders-oop-cpp) | Arcade-style game built using OOP concepts including classes, inheritance, and polymorphism | C++ · Raylib |
-| **Matrix Multiplication TPU (Logisim)** | Designed a **TPU-style matrix multiplication system** using **Instruction RAM, ROM, Tiling, and Systolic Array architecture**, capable of performing **up to 32×32 matrix multiplication** using a simplified 4-instruction control system | Logisim · Computer Architecture |
+| [**Matrix Multiplication (Logisim)**](https://github.com/kartar-singh-cs/matrix-multiplication-logisim) | Three hardware implementations of matrix multiplication — Standard, Systolic TPU, and Tiling — built from scratch in digital logic | Logisim · Computer Architecture |
 | [**Snake Game**](https://github.com/kartar-singh-cs/snake-game-cpp) | Classic Snake game with smooth movement, collision detection, and scoring system | C++ · Raylib |
 | [**Pong Game**](https://github.com/kartar-singh-cs/pong-game-cpp) | Two-player Pong game with paddle collision and physics-based movement | C++ · Raylib |
 
